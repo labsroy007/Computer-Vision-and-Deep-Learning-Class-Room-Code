@@ -1,5 +1,5 @@
-# B657-quiz-template
-Quiz template for deep learning paper discussion section of B657 -- Computer Vision course
+# This is handson for Deep learning and Computer Vision course
+Quiz template for deep learning paper discussion and  Computer Vision course
 
 # Please Read
 
